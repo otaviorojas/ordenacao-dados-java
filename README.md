@@ -1,8 +1,8 @@
-# Go Starter App
+# Java Starter App
 
-![technology JAVA](https://img.shields.io/badge/dependencies-out%20of%20date-orange.svg?cacheSeconds=2592000)
+![technology JAVA](https://img.shields.io/badge/technology-java-orange.svg)
 
-This is a basic project, to practice ordenations methods and OO
+This is a project, to practice ordenations methods and OO
 
 ## Outuput example
 
