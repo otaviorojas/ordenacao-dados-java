@@ -45,7 +45,7 @@ public class Vetor {
 
 	@Override
 	public String toString() {
-		return "vetor=" + Arrays.toString(vetor) + "";
+		return "Vector=" + Arrays.toString(vetor) + "";
 	}
 	
 
